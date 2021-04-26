@@ -1,0 +1,1 @@
+# VisualizationChallenge-PhysicalPropertiesForMechanicalModels
